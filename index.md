@@ -1,4 +1,2 @@
-# Yow, this is my first markdown for this challenge.
-## How about this?
-### and this?
-#### and what about this?
+### ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+### This image is of a weird-looking cat
